@@ -1,0 +1,48 @@
+.body{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 10%;
+}
+h1{
+  align-items: center;
+  margin-left: 43%;
+}
+.max-auto{
+  margin: auto;
+}
+.flex{
+  display: flex
+}
+.flex-col{
+  flex-direction:column ;
+}
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid;
+  border-radius: 22px;
+  cursor: pointer;
+  background-color:black ;
+  color: white;
+}
+.item-center{
+  align-items: center;
+}
+.row{
+  margin: 8px 0;
+}
+.row1 button{
+  width: 140px;
+}
+.row input{
+  width: 291px;
+  font-size: 19px;
+  margin: 0;
+  padding: 10px 0;
+  border: 2px solid black;
+  border-radius: 9px;
+}
+#equal{
+  background-color: orangered;
+  color: white;
+}
